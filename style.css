@@ -11,6 +11,7 @@
 }
 *{
     font-family: 'Playfair Display',sans-serif;
+    width: 100%;
 }
 .sol {
     font-size: larger;
