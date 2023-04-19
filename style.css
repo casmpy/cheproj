@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+.navbar-nav > li{
+    padding-left:20px;
+    padding-right:20px;
+    padding: 15px;
+}
+.navbar-nav{
+    justify-content: center;
+    text-align: center;
+    margin-left: 25%;
+}
+*{
+    font-family: 'Playfair Display',sans-serif;
+}
+.sol {
+    font-size: larger;
+}
+.card{
+    margin-left: 150px;
+    justify-content: center;
+}
+.cd{
+    justify-content: center;
+    margin-left: 13%;
+}
